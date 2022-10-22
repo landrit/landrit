@@ -1,5 +1,5 @@
 👋 Hi, I’m @landrit
-👀 I’m interested in programming. My strengths are backend development. My interests include artificial intelligence. Machine learning, data mining and big data.
+👀 I’m interested in programming. My strengths are backend development. My interests include artificial intelligence, Machine learning, data mining and big data.
 🍀 Currently I am improving in the frontend.
 
 
