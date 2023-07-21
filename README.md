@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/landrit-ahmeti-1001501a2/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="https://github.com/ArmandoShala/">
+  <a href="https://github.com/landrit/">
     <img align="center" style='vertical-align:middle;' height=28 src="https://komarev.com/ghpvc/?username=landrit&style=flat-square&color=ffd700"/>
   </a>
 </div>
