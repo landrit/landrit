@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi 👋 I am Landrit 👨‍💻</h1>
 <h3 align="center">A full stack developer from Switzerland 🇨🇭</h3>
-![DALL·E 2023-11-24 18 27 48 - A sleek banner for a GitHub profile, tailored to an avatar of a feared alpha male character with assassin-like features, and emphasizing coding elemen](https://github.com/landrit/landrit/assets/34266191/5eee8892-5f0f-4f26-853a-5af25c81393b)
+<img src="https://github.com/landrit/landrit/assets/34266191/0fbb8247-cfbb-484a-a523-7841ca86a3a8](https://github.com/landrit/landrit/assets/34266191/5eee8892-5f0f-4f26-853a-5af25c81393b"/>
 
 </div>
 
