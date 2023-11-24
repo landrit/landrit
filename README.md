@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi 👋 I am Landrit 👨‍💻</h1>
 <h3 align="center">A full stack developer from Switzerland 🇨🇭</h3>
-<img src="https://github.com/landrit/landrit/assets/34266191/0fbb8247-cfbb-484a-a523-7841ca86a3a8](https://github.com/landrit/landrit/assets/34266191/5eee8892-5f0f-4f26-853a-5af25c81393b"/>
+<img src="https://github.com/landrit/landrit/assets/34266191/5eee8892-5f0f-4f26-853a-5af25c81393b"/>
 
 </div>
 
