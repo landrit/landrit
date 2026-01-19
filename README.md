@@ -1,41 +1,162 @@
+<p align="center">
+  <a href="https://github.com/landrit">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Landrit&fontAlign=50&fontAlignY=35&color=gradient&desc=Full-Stack%20Developer%20from%20Switzerland%20%F0%9F%87%A8%F0%9F%87%AD&descAlign=50&descAlignY=58" alt="Landrit" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Angular%20%26%20TypeScript%20Enthusiast;Java%20%2F%20Spring%20Backend%20Builder;Clean%20Architecture%20%7C%20DX%20Matters;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=560&height=45&color=ffd700&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+<pre>
+ 
+                                             
+                                                                   .--------._
+                                                                 (`--'       `-.
+                                                                   `.______      `.
+                                                               ___________`__     \
+                                                             ,-'           `-.\     |
+                                                           //                \|    |\
+                                                           (`  .'~~~~~---\     \'   | |
+                                                           `-'           )     \   | |
+                                                               ,---------' - -.  `  . '
+                                                             ,'             `%`\`     |
+                                                           /                      \  |
+                                                           /     \-----.         \    `
+                                                         /|  ,_/      '-._            |
+                                                         (-'  /           /            `     
+                                                         ,`--<           |        \     \
+                                                         \ |  \         /%%             `\
+                                                         |/   \____---'--`%        \     \
+                                                         |    '           `               \
+                                                         |
+                                                           `--.__
+                                                                 `---._______
+                                                                             `.
+                                                                               \
+
+
+                          
+           Landrit • CH 🇨🇭
+</pre>
+</p>
+
+
+---
+
+## 👋 Hi, I’m Landrit
+
+I’m a **full stack developer from Switzerland 🇨🇭**.  
+I like building **production-grade web apps**, focusing on **clean architecture**, **maintainability**, and **developer experience**.
+
+- 💻 Frontend: **Angular**, **TypeScript**, **Tailwind**
+- ⚙️ Backend: **Java**, **Spring**, **Node.js**, **.NET**
+- 🗄️ DB: **PostgreSQL**
+- 🧰 Tooling: **Docker**, **Git**, **CI/CD**
+
+                                                           ___---___
+                                                     ___---___---___---___
+                                               ___---___---    *    ---___---___
+                                         ___---___---    o/ 0_/  @  o ^   ---___---___
+                                   ___---___--- @  i_e J-U /|  -+D O|-| (o) /   ---___---___
+                             ___---___---    __/|  //\  /|  |\  /\  |\|  |_  __--oj   ---___---___
+                         __---___---_________________________________________________________---___---__
+                         ===============================================================================
+                         ||||   |||   |||   |||   |||   |||   |||   |||   |||   |||   |||   |||   ||||
+                         |---------------------------------------------------------------------------|
+                         |___-----___-----___-----___-----___-----___-----___-----___-----___-----___|
+                         / _ ----- _ \   / _ ----- _ \   / _ ----- _ \   / _ ----- _ \   / _ ----- _ \
+                         ( (o\_____/o) ) ( (o\_____/o) ) ( (o\_____/o) ) ( (o\_____/o) ) ( (o\_____/o) )
+                         \__/|||||\__/   \__/=====\__/   \__/=====\__/   \__/=====\__/   \__/=====\__/
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                             |||||||         |||||||         |||||||         |||||||         |||||||
+                           (OOOOOOO)       (OOOOOOO)       (OOOOOOO)       (OOOOOOO)       (OOOOOOO)
+                           )%%%%%%%(       )%%%%%%%(       )%%%%%%%(       )%%%%%%%(       )%%%%%%%(
+                           (ZZZZZZZZZ)     (ZZZZZZZZZ)     (ZZZZZZZZZ)     (ZZZZZZZZZ)     (ZZZZZZZZZ)
+               
+                           ===========================================================================
+                         __|_________________________________________________________________________|__
+                         _|___________________________________________________________________________|_
+                         |_____________________________________________________________________________|
+                         _______________________________________________________________________________
+                         _______________________________________________________________________________
+
+---
+
+<details open>
+  <summary><h2>🛠️ Tools & Technologies</h2></summary>
+
+  <h3>👨‍💻 Languages</h3>
+  <p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=ffd700">
+    <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ffd700">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffd700">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=ffd700">
+    <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffd700">
+  </p>
+
+  <h3>🧰 Frameworks & Libraries</h3>
+  <p>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=ffd700">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=ffd700">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=ffd700">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=ffd700">
+  </p>
+</details>
+
+---
+
+## 📊 GitHub Stats
+
 
 <div align="center">
-<h1 align="center">Hi 👋 I am Landrit 👨‍💻</h1>
-<h3 align="center">A full stack developer from Switzerland 🇨🇭</h3>
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=landrit&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
 
 </div>
 
-<div align="center">
-   <a href="https://github.com/landrit/">
-    <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/landrit-ahmeti-1001501a2/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="https://github.com/landrit/">
-    <img align="center" style='vertical-align:middle;' height=28 src="https://komarev.com/ghpvc/?username=landrit&style=flat-square&color=ffd700"/>
-  </a>
-</div>
+---
 
-----------------
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=landrit&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&border_color=ffd700&ring_color=ffd700" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landrit&layout=compact&langs_count=8&theme=graywhite&border_color=ffd700" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=landrit&theme=graywhite&date_format=j.n[.Y]&stroke=ffd700&border=ffd700" alt="landritahmeti" />
-</div>
-   <br><br>
-
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-   <br><br>
-   <div style="display: inline_block">
-<p align="left">
-<a href="https://github.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="android" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;
+  
+  <br/><br/>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;
 
-   </div>
+  <br/><br/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
 </div>
