@@ -133,6 +133,21 @@ I like building **production-grade web apps**, focusing on **clean architecture*
 
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=landrit&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" width="100%" alt="Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=landrit&layout=compact&langs_count=8&bg_color=000000&title_color=ffd700&text_color=ffffff&hide_border=true" width="100%" alt="Langs" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
